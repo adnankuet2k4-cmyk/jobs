@@ -1,0 +1,15 @@
+{
+  "watches": [
+    {
+      "name": "Jobs: python engineer",
+      "url": "https://www.google.com/alerts/feeds/REPLACE_WITH_YOUR_ALERT_FEED_ID",
+      "include": ["python", "backend"],
+      "exclude": ["intern"]
+    },
+    {
+      "name": "Company: Example Corp blog",
+      "url": "https://example.com/blog/feed.xml",
+      "include": []
+    }
+  ]
+}
